@@ -27,8 +27,8 @@ This mixed reality game is a testament to the capabilities of generative AI in g
 
 ## Usage
 Upon launching the game on your Meta Quest 3 headset, you'll be greeted with a start button. Interact with this button using hand tracking to begin the game. Cubes will start to appear and move towards you, challenging you to punch them as they come. Gold cubes offer bonus points, so keep an eye out for them. This application relies solely on hand tracking for interaction, providing an intuitive and immersive experience.
-![image](https://github.com/comcast-labs/BlockBuster/assets/97308287/382d1510-306a-4865-93a4-e7f1ea1d1ecd)
-![image](https://github.com/comcast-labs/BlockBuster/assets/97308287/b16a86d2-7760-45ab-86b7-bd525fef64a5)
+![image](![image](https://github.com/gdedi001/BlockBuster/assets/8450711/1a956a22-21cc-4661-8cae-d9f02d4aece6)
+![image](![image](https://github.com/gdedi001/BlockBuster/assets/8450711/3cbf14b0-5a9d-4a6c-b8c3-f4b175c29636)
 
 
 
